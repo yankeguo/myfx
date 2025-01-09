@@ -1,5 +1,25 @@
 {
     "cSpell.words": [
-        "myfx"
+        "asynq",
+        "dubonzi",
+        "Gorm",
+        "hibiken",
+        "logglobal",
+        "myfx",
+        "mysqldriver",
+        "otellog",
+        "otelmetric",
+        "otelresty",
+        "oteltrace",
+        "otelzap",
+        "otlplog",
+        "otlploggrpc",
+        "otlpmetric",
+        "otlpmetricgrpc",
+        "otlptrace",
+        "otlptracegrpc",
+        "redisotel",
+        "Tracestate",
+        "Zhipu"
     ]
 }
