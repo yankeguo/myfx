@@ -79,7 +79,7 @@ func NewGormDB(vb Verbose, log *zap.Logger, tp trace.TracerProvider) (db *gorm.D
 		level = logger.Info
 	}
 
-	cfg := rg.Must(mysqldriver.ParseDSN(os.Getenv("MYSQL_DNS")))
+	cfg := rg.Must(mysqldriver.ParseDSN(os.Getenv("MYSQL_DSN")))
 
 	db = rg.Must(
 		gorm.Open(
