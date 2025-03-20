@@ -10,7 +10,7 @@ require (
 	github.com/gofiber/fiber/v2 v2.52.6
 	github.com/hibiken/asynq v0.25.1
 	github.com/redis/go-redis/extra/redisotel/v9 v9.7.0
-	github.com/redis/go-redis/v9 v9.7.0
+	github.com/redis/go-redis/v9 v9.7.3
 	github.com/yankeguo/rg v1.3.1
 	github.com/yankeguo/zhipu v0.1.4
 	go.opentelemetry.io/contrib/bridges/otelzap v0.9.0
